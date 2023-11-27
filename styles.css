@@ -48,7 +48,7 @@ header{
     color: #14BF98;
 }
 .hexagon{
-    background: url(/css/Images/hexagon-green.svg) center center no-repeat;
+    background: url(Images/hexagon-green.svg) center center no-repeat;
    margin:0px;
    margin-left: 10px;
 } 
@@ -65,7 +65,7 @@ i:hover{
 #home{
     background-size: cover;
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.5)),url(/css/Images/header-background.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.5)),url(Images/header-background.jpg) center center no-repeat;
     
     }
     .home-content{
@@ -179,7 +179,7 @@ i:hover{
    }
   
    .intro_hexagon{
-    background: url(/css/Images/hexagon-green.svg) center center no-repeat;
+    background: url(Images/hexagon-green.svg) center center no-repeat;
    margin:0px;
     margin-left: 10px;
    padding: 25px; 
@@ -938,7 +938,7 @@ position: fixed;
         width: 2.625rem;
         height: 2.625rem;
         border-radius: 1.875rem;
-        background: #14bf98 url("/css/Images/up-arrow.png") no-repeat center 47%;
+        background: #14bf98 url("Images/up-arrow.png") no-repeat center 47%;
         background-size: 1.125rem 1.125rem;
         text-indent: -9999px;
 
